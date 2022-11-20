@@ -1,0 +1,46 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+#tcb-wrapper {
+    display: none;
+}
+div {
+    width: 780px;
+    height: 400px;
+    background-color: rgb(189, 189, 189);
+    margin: 15px;
+    border: 1px solid black;
+}
+.item1 {
+    background: url("./images/Бульдог.jpg");
+    background-repeat: no-repeat;
+}
+.item2 {
+    background: url("./images/Курцхаар.jpg");
+    background-repeat: no-repeat;
+}
+.item3 {
+    background: url("./images/Лабрадор.jpg");
+    background-repeat: no-repeat;
+}
+.item4 {
+    background: url("./images/Мопс.jpg");
+    background-repeat: no-repeat;
+}
+.item5 {
+    background: url("./images/Овчарка.jpg");
+    background-repeat: no-repeat;
+}
+.item6 {
+    background: url("./images/Ретривер.jpg");
+    background-repeat: no-repeat;
+}
+.item7 {
+    background: url("./images/Такса.jpg");
+    background-repeat: no-repeat;
+}
+.item8 {
+    background: url("./images/Шарпей.jpg");
+    background-repeat: no-repeat;
+}
